@@ -205,7 +205,7 @@ blocks:
     append: 'False'
     comment: ''
     file: /home/radiogis_director/MisGits/comdiguispractices2021si.3.8/unit I/Pract1.basic
-      system based in rectangular pulse form/recibido.jpg
+      system based in rectangular pulse form/recibidoooooo.jpg
     type: byte
     unbuffered: 'False'
     vlen: '1'
@@ -319,7 +319,7 @@ blocks:
   parameters:
     alias: ''
     comment: ''
-    note: Canal
+    note: Pre-pre-canal
   states:
     bus_sink: false
     bus_source: false
@@ -384,7 +384,7 @@ blocks:
     nconnections: '2'
     size: '64'
     srate: Rb
-    stemplot: 'False'
+    stemplot: 'True'
     style1: '1'
     style10: '1'
     style2: '1'
